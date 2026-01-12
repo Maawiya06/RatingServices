@@ -1,6 +1,5 @@
 package com.lcwd.rating.entities;
 
-import jdk.jfr.Enabled;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

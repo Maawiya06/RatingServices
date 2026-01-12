@@ -1,8 +1,8 @@
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017
-      database: microservices_rating
+      uri: mongodb://localhost:27017/microservices_rating
+
 
 server:
   port: 8083
