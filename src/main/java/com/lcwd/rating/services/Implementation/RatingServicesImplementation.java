@@ -4,9 +4,10 @@ import com.lcwd.rating.entities.Rating;
 import com.lcwd.rating.repositories.RatingRepositories;
 import com.lcwd.rating.services.RatingServices;
 import org.springframework.beans.factory.annotation.Autowired;
-
+import org.springframework.stereotype.Service;
 import java.util.List;
 
+@Service
 public class RatingServicesImplementation implements RatingServices {
 
     @Autowired
