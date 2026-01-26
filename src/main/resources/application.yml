@@ -4,7 +4,7 @@ spring:
       uri: mongodb://localhost:27017/microservices_rating
 
   application:
-    name: discovery-client
+    name: RATINGSERVICES
 
 eureka:
   instance:
